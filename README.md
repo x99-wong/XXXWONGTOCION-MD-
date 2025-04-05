@@ -1,5 +1,5 @@
 
-<p align="center">                                                  𝐑𝐀𝐇𝐌𝐀𝐍𝐈_𝐗𝐌𝐃 
+<p align="center">                                                  XXXWONGTOCION 
   
 
 </p>
@@ -9,12 +9,12 @@
     </p>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WELCOME MY+BOT+RAHMANI_XMD+CREATED+BY+Rahmani;RELEASED+26.3.2025" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=WELCOME MY+BOT+XXXWONGTOCION+CREATED+BY+xxxwongtocion;RELEASED+26.3.2025" alt="Typing SVG" /></a>
 
 
 
 
-## bot is not available made by rahman xmd
+## bot is not available made by xxxwongtocion 
   
   <a href="https://rahmani-md-7xqe.onrender.com/pair"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
   
