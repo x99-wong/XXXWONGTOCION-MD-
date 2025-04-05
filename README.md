@@ -21,7 +21,7 @@
 
 
 
-<a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Qartde/XXXWONGTOCION/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Qartde/heroku/tree/main"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
